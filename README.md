@@ -21,12 +21,6 @@ Build with [Lucid Chart](https://lucid.app/)
   
   - [delete.sh](/delete.sh)
 
-## Links for test
-
-- [Load Balancer Link](http://insta-webap-1vja3zyxu48s2-1759599887.us-east-1.elb.amazonaws.com/)
-
-- [Bastion Host](http://54.226.52.143/)
-
 ## External Resources Links:
 
   - https://stackoverflow.com/questions/40273492/aws-cfn-the-parameter-groupname-cannot-be-used-with-the-parameter-subnet
