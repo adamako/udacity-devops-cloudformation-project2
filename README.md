@@ -25,7 +25,7 @@ Build with [Lucid Chart](https://lucid.app/)
 
 - [Load Balancer Link](http://insta-webap-1vja3zyxu48s2-1759599887.us-east-1.elb.amazonaws.com/)
 
-- [Bastion Host](http://54.204.239.68/)
+- [Bastion Host](http://54.226.52.143/)
 
 ## External Resources Links:
 
