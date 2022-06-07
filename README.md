@@ -9,7 +9,7 @@ Build with [Lucid Chart](https://lucid.app/)
 
 ## 2- Infrastructure As a Code
 
-  - [Instagram Clone Infrastructure script](/insta-infra.yml) 
+  - [Instagram Clone Network script](/insta-infra.yml) 
   
   - [Instagram clone Servers script](/insta-servers.yml)
   
