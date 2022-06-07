@@ -1,5 +1,5 @@
 # Udacity Cloud DevOps Cloudformation Project 2
-CloudFormation script to create infrastructure and servers such as VPC, Internet Gateway, Subnets, Route tables, Auto Scaling and Load Balancer.
+CloudFormation scripts to create infrastructure and servers such as VPC, Internet Gateway,NAT Gateway, Subnets, Bastion Host, Route tables, Auto Scaling and Load Balancer.
 
 ## 1- Udagram
 
